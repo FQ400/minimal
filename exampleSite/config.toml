@@ -65,3 +65,13 @@ googleAnalytics = ""
     url = "https://www.stackoverflow.com/username/"
     name = "stack-overflow"
     weight = 5
+
+[[menu.footer]]
+    url = "https://www.stackoverflow.com/username/"
+    name = "stack-overflow"
+    weight = 1
+
+[[menu.footer]]
+    url = "https://www.stackoverflow.com/username/"
+    name = "stack-overflow"
+    weight = 2
